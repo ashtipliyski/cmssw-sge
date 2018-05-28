@@ -5,6 +5,6 @@ Submission scripts for running CMSSW on SGE batch systems
 
 Setup pwd to be part of unix path
 
-'''
+```
 source env.sh
-'''
+```
